@@ -1,4 +1,4 @@
-# odin-recipes
+
 Learned few things about HTML, but still practicing
  Meaning of Elements and tags
  How to add Images and link
